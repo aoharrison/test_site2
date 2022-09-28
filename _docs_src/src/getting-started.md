@@ -4,7 +4,7 @@ description: Write your description here.
 
 # Getting started
 
-Lorem ipsum dolor sit amet. Est internos nesciunt id earum praesentium At quam consequuntur? Nam veniam labore vel consequatur veritatis eum asperiores consectetur quo blanditiis amet hic rerum assumenda ut dolorem consequatur non sapiente reiciendis. Sed galisum debitis et asperiores iusto ad earum rerum est nulla facere et obcaecati sint non ipsam amet. Cum enim expedita ab delectus veniam ad dolorem sint est facilis dolores aut enim voluptatem ex earum autem ut corporis debitis.
+Start here, obviously.
 
 ## Good info
 
