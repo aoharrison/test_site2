@@ -4,7 +4,7 @@ description: Write your description here.
 
 # Cool Stuff
 
-Lorem ipsum dolor sit amet. Non unde assumenda et illum odio vel delectus rerum. Sit quas Quis id enim nisi non odit excepturi ab facilis dolorum vel culpa nostrum est autem odio.
+Yo, this is the coolest stuff.
 
 ## Very snazzy
 
